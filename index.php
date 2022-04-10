@@ -24,7 +24,7 @@
 <div class="row">
 
 <div class="col-md-4">
-<img class="img-fluid" src="http://206.189.45.97/~mesh1/wp-content/themes/starter_for_josh_site/images/port1.jpg" alt="woman">
+<img class="img-fluid" src="http://206.189.45.97/~mesh16/wp-content/themes/starter_for_josh_site/images/image2.jpg" alt="woman">
 <h4 class="article-title">A PORTRAIT</h4>
 <p class="date">Friday, November 10, 2030 </p>
 <p class="article-p">STS has never been shy of seeking new terrains of investigation. 
@@ -38,7 +38,7 @@
 </div> <!--col 1-->
 
 <div class="col-md-4">
-    <img class="img-fluid" src="http://206.189.45.97/~mesh1/wp-content/themes/starter_for_josh_site/images/port2.jpg" alt="woman">
+    <img class="img-fluid" src="http://206.189.45.97/~mesh16/wp-content/themes/starter_for_josh_site/images/image3.jpg" alt="woman">
     <h4 class="article-title">A PORTRAIT</h4>
     <p class="date">Friday, November 10, 2030 </p>
     <p class="article-p">STS has never been shy of seeking new terrains of investigation. 
@@ -52,7 +52,7 @@
 
 
           <div class="col-md-4">
-            <img class="img-fluid" src="http://206.189.45.97/~mesh1/wp-content/themes/starter_for_josh_site/images/port3.jpg" alt="woman">
+            <img class="img-fluid" src="http://206.189.45.97/~mesh16/wp-content/themes/starter_for_josh_site/images/image4.jpg" alt="woman">
             <h4 class="article-title">A PORTRAIT</h4>
             <p class="date">Friday, November 10, 2030 </p>
             <p class="article-p">STS has never been shy of seeking new terrains of investigation. 
