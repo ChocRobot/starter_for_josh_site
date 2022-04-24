@@ -40,7 +40,7 @@ bloginfo('name'); echo ' - '; bloginfo('description'); }
 </head>
 <body>
 
-    <header class="container-fluid smallpage-bg">
+<header class="container-fluid" style="background-size:cover; height:40vh; background-image: url(<?php the_field('projectheaderbackgroundimage') ?>);">
     <div class="container">
 
     <nav class="navbar navbar-expand-md navbar-dark">
@@ -74,8 +74,8 @@ bloginfo('name'); echo ' - '; bloginfo('description'); }
         </div>
       </nav>
 
-      <div class="tsmallpage-tag">
-<h1 class="smallpage-title">Game Design For the Future</h1> <!-- main tag line -->
+      <div class="smallpage-tag"><!-- div that holds the content in the middle of the page-->
+<h1 class="smallpage-title"><?php the_field('projectsheadertitle'); ?> </h1> <!-- main tag line -->
 </div>
 
     </div> <!-- container -->
